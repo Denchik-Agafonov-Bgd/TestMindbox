@@ -10,7 +10,7 @@ namespace TestMindbox
     public class Circle : GeometricFigure
     {
         private double radius;
-        private double radius;
+        private double radius6;
         public Circle(double radius) { this.radius = radius; }
         public override double getSquare()
         {
